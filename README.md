@@ -70,10 +70,10 @@ Para obtener los endpoints con sus ejemplos de body y header es necesario import
 
 ## IMÁGENES
 <!-- DIAGRAMA-->
-## DIAGRAMA
+## Diagrama
 
 <!-- RESULTADOS POSTMAN-->
-## RESULTADOS POSTMAN
+## Resultados Postman
 
 
 </p>
