@@ -12,7 +12,7 @@
     <li>
       <a href="#CONFIGURACIÓN">Configuración</a>
       <ul>
-        <li><a href="#Configuración DB">Base de datos</a></li>
+        <li><a href="#Configuración-DB">Base de datos</a></li>
       </ul>
       <ul>
         <li><a href="#Configuración application.properties">application.properties</a></li>
