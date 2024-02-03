@@ -18,7 +18,7 @@
         <li><a href="#Configuración-Properties">application.properties</a></li>
       </ul>
       <ul>
-        <li><a href="# Configuración-Postman">Postman</a></li>
+        <li><a href="#Configuración-Postman">Postman</a></li>
       </ul>
     </li>
     <li>
