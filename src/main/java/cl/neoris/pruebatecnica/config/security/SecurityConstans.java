@@ -8,7 +8,13 @@ import java.nio.charset.StandardCharsets;
 public class SecurityConstans {
 
     // Spring Security
-    public static final String[] LOGIN_URLS = new String[] {"/users/login", "/users/create"};
+    public static final String[] AUTH_WHITELIST = new String[] {
+            "/users/login",
+            "/users/create",
+            "/v3/api-docs/**",
+            "/swagger-ui/**",
+            "/swagger-ui.html"
+    };
     public static final String HEADER_AUTHORIZACION_KEY = "Authorization";
     public static final String TOKEN_BEARER_PREFIX = "Bearer ";
 
