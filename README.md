@@ -15,19 +15,19 @@
         <li><a href="#Configuración-DB">Base de datos</a></li>
       </ul>
       <ul>
-        <li><a href="#Configuración application.properties">application.properties</a></li>
+        <li><a href="#Configuración-application.properties">application.properties</a></li>
       </ul>
       <ul>
-        <li><a href="# Configuración Postman">Postman</a></li>
+        <li><a href="# Configuración-Postman">Postman</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Imágenes</a>
+      <a href="#IMÁGENES">Imágenes</a>
       <ul>
-        <li><a href="#installation">Diagrama</a></li>
+        <li><a href="#DIAGRAMA">Diagrama</a></li>
       </ul>
       <ul>
-        <li><a href="#installation">Resultado Postman</a></li>
+        <li><a href="#RESULTADOS-POSTMAN">Resultado Postman</a></li>
       </ul>
     </li>
   </ol>
