@@ -15,7 +15,7 @@
         <li><a href="#Configuración-DB">Base de datos</a></li>
       </ul>
       <ul>
-        <li><a href="#Configuración-application.properties">application.properties</a></li>
+        <li><a href="#Configuración-Properties">application.properties</a></li>
       </ul>
       <ul>
         <li><a href="# Configuración-Postman">Postman</a></li>
@@ -54,7 +54,7 @@ Para configurar la base de datos es necesario ejecutar el comando de H2:
 utilizando el archivo NEORIS_PRUEBA_TECNICA_DB de este repositorio.
 
 <!-- Configuración application.properties-->
-## Configuración application.properties
+## Configuración Properties
 Es necesario configurar el application.properties del proyecto con la configuración de la DB de H2:
 
 <b>spring.datasource.url</b>=Path de conexión
